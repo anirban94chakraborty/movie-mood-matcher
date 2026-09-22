@@ -1,4 +1,4 @@
-# 🎬Movie Mood Matcher
+# 🎬Movie Mood Matcher [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/anirban94chakraborty/movie-mood-matcher)
 
 **Movie Mood Matcher** is a stateless, cloud-native microservice application. It utilises Google's Agent Development Kit (ADK) and Gemini on Vertex AI to seamlessly translate unstructured human emotion into deterministic, system-routed movie recommendations.
 
